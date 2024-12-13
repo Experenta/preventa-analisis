@@ -376,6 +376,10 @@ and (
 }
 ```
 
+# VISUALIZACION DE DATOS RELACIONALES
+
+![Reparto SQL](repartosql.png)
+
 # NO IMPLEMENTADO
 
 En estos métodos del sync no hay lógica para realizar consultas.
