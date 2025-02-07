@@ -303,3 +303,6 @@ CREATE UNIQUE INDEX "ProductoFormato_Name_key" ON "ProductoFormato"("Name");
 CREATE UNIQUE INDEX "Cliente_codigoCliente_key" ON "Cliente"("codigoCliente");
 
 ```
+
+
+En este repositorio se encuentra un archivo para mysql workbench en el cual pueden ver la estructura de la base de datos local y diagrama de entidades.
